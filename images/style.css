@@ -1,0 +1,44 @@
+.navbar-brand {
+    padding-left: 20px;
+    }
+.navbar {
+    background-color: #f0f0f0;
+    font-size: larger;
+    padding: 15px;
+    }
+
+body {background-color: #0D1B2B; overflow-x: hidden; font-family: monospace; -webkit-font-smoothing: antialiased; margin: 0;}
+
+img {  
+    padding: 5%;
+    max-width: 20%; 
+    max-height: 30%; 
+    height: auto;  
+    border-width: 10px;
+    } 
+    
+    .container {
+        display: grid;
+        align-items: center; 
+        grid-template-columns: 1fr 1fr 1fr;
+       }
+       .text {
+        font-size: 15px;
+        width:200%;
+        align-items: center;
+        justify-content:baseline;
+
+
+      }
+      h2{
+        color: goldenrod;
+        font:bold;
+        padding-left: 30px;
+      }
+      p{
+        color: black;
+        padding-left: 30px;
+      }
+      
+
+       
