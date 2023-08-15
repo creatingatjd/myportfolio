@@ -1,13 +1,16 @@
 .navbar-brand {
-    padding-left: 20px;
+    padding-left: 10px;
+    
     }
-.navbar {
-    background-color: #f0f0f0;
-    font-size: larger;
-    padding: 15px;
+    .navbar {
+      overflow: hidden;
+      background-color: #1c87c9;
+      position: fixed;
+      top: 0;
+      width: 80%;
     }
 
-body {background-color: #0D1B2B; overflow-x: hidden; font-family: monospace; -webkit-font-smoothing: antialiased; margin: 0;}
+body {background-color: #0D1B2B; overflow-x: hidden; font-family: monospace; -webkit-font-smoothing: antialiased; margin: 10%;}
 
 img {  
     padding: 5%;
