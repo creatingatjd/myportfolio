@@ -14,8 +14,8 @@ body {background-color: #0D1B2B; overflow-x: hidden; font-family: monospace; -we
 
 img {  
     padding: 5%;
-    max-width: 20%; 
-    max-height: 30%; 
+    max-width: 30%; 
+    max-height: 20%; 
     height: auto;  
     border-width: 10px;
     } 
